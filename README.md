@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @MSDDHILLXN
-- 👀 I’m interested in data analysis, machine learning, and big data technologies.
-- 🌱 I’m currently learning advanced AI and cloud infrastructure with a focus on Oracle Cloud and Azure.
-- 💞️ I’m looking to collaborate on projects involving data pipelines, predictive analytics, and dashboard development.
-- 📫 How to reach me: mandeepsinghdhillonn@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’ve helped organize tech events for over 6,000 attendees, merging my passion for tech and teamwork!
+Hey there! I'm Mandeep Singh Dhillon, a data analyst with a knack for turning raw data into meaningful stories. With experience across Python, SQL, and tools like Azure and Power BI, I’m all about building automated pipelines and creating insights that drive smart decisions. Recently, I’ve been diving into AI and cloud infrastructure, with a focus on Oracle Cloud.
 
-
+Beyond tech, I’m a team player who’s helped run events for thousands, blending my love for data with my passion for teamwork. Always open to connecting over data, tech, or just interesting ideas—let’s chat!
 <!---
 MSDDHILLXN/MSDDHILLXN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
